@@ -1,1 +1,1 @@
-# cautiousGroupthink
+# groupthink
